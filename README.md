@@ -16,17 +16,6 @@ Built using **HTML**, **CSS**, **Bootstrap 5**, and **Font Awesome** icons.
 - Bootstrap 5.3.7  
 - Font Awesome 7.0.0  
 
-## 📂 Project Structure
-pos-category-page/
-│
-├── index.html
-├── style.css
-└── images/
-├── keyboard.jpg
-├── card-reader.jpg
-├── cash-drawer.jpg
-└── structure-component.jpg
-
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
